@@ -1,15 +1,15 @@
 # LukeReader
 
-LukeReader是一个适合摸鱼的绝佳IDEA插件，提供极具隐蔽性的阅读体验。
+LukeReader是一个可以在IDEA中阅读小说的插件，拥有隐蔽的阅读体验和极佳的交互设计。
+
 无论你是在工作还是学习，都可以通过LukeReader来享受小说的乐趣，而不必离开IDEA。
 
 下载地址：https://plugins.jetbrains.com/plugin/23233-luke-reader
 
 **插件免费试用30天，如果你喜欢，请订阅支持。**
 
+
 ![img.png](images/all.png)
-
-
 
 ## 安装
 
@@ -59,6 +59,6 @@ LukeReader使用多种智能算法来识别小说的目录结构，以便你可�
 
 ## 反馈与支持
 
-如果你在使用LukeReader插件时遇到任何问题，或者有任何建议或反馈，请随时联系我们。
+如果你在使用LukeReader插件时遇到任何问题，或者有任何建议或反馈，请随时提交 issue，或发送邮件到 support@zhanzhan99.cn 
 
 祝你摸鱼愉快！
