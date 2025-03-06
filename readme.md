@@ -105,13 +105,10 @@ LukeReader使用多种智能算法来识别小说的目录结构，以便你可�
   2. 新设备的用户ID
 - 我们会在后台为您处理设备更换
 
-#### 如何联系我们？
+## 联系我们
+
+如果你在使用LukeReader插件时遇到任何问题，或者有任何建议或反馈，请随时告诉我们！
 您可以通过以下方式联系我们：
-1. 添加客服微信：luke_reader
-2. 发送邮件至：support@zhanzhan99.cn
-3. 提交 GitHub issue
-## 反馈与支持
-
-如果你在使用LukeReader插件时遇到任何问题，或者有任何建议或反馈，请随时提交 issue，或发送邮件到 support@zhanzhan99.cn 
-
-祝你摸鱼愉快！
+- （推荐）添加客服微信：luke_reader
+- 发送邮件至：support@zhanzhan99.cn
+- 提交 GitHub issue
